@@ -8,4 +8,6 @@ Routes: candidate vision, two-page resume, one-page cover letter, interview thes
 
 Official Thermo Fisher identity is used for nominative identification. All role analysis, diagrams, interaction, documents, and supporting visuals are independent candidate work. This repository is not an official Thermo Fisher Scientific publication and does not imply endorsement.
 
+Publication source: complete campaign on `main`, including both required stylesheet layers on all six routes.
+
 Job posting: https://jobs.thermofisher.com/global/en/job/R-01328445/Sr-Staff-AI-Architect
