@@ -1,1 +1,0 @@
-Campaign archive transport is staged in a temporary GitHub issue and validated by SHA-256 before publication. This file is removed by the materialization commit.
