@@ -1,0 +1,1 @@
+Temporary checksum-gated transport. The materialization workflow removes this staging area from the final campaign tree.
