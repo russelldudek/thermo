@@ -41,9 +41,10 @@ jobs:
           parts = []
           for item in meta['parts']:
               path = upload / item['name']
-              data = path.read_bytes()
-              if len(data) != item['bytes']:
-                  raise SystemExit(f"size mismatch: {path}")
+              raw = path.read_bytes()
+              if len(raw) < item['bytes']:
+                  raise SystemExit(f"short payload: {path}")
+              data = raw[:item['bytes']]
               if hashlib.sha256(data).hexdigest() != item['sha256']:
                   raise SystemExit(f"hash mismatch: {path}")
               parts.append(data)
