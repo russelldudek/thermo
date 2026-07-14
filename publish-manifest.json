@@ -1,0 +1,31 @@
+{
+  "branch": "main",
+  "expected_file_count": 25,
+  "files": [
+    {"path":".github/workflows/deploy-pages.yml","bytes":588,"sha256":"0824ea402f92a165727db805d55aad749e6177367585b51ffc547ba7162d4d2e"},
+    {"path":".nojekyll","bytes":0,"sha256":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"},
+    {"path":"120-day-plan.html","bytes":6977,"sha256":"1b09c6d020c8e228dec0bbdeb2f87ba224f77d92d07812bb913d6f1350711eeb"},
+    {"path":"README.md","bytes":850,"sha256":"93962e3cc79631212d910c7c97ab98f9e151db27aceb0cf8c1a1cea41c753216"},
+    {"path":"app.js","bytes":3129,"sha256":"294d167a42d79e17f998dda286b7f44efa895d8bcf1f3f79af1a3ba42f1b57e3"},
+    {"path":"architecture-review.html","bytes":4071,"sha256":"808c6c57f66053f766ce3bad6f6f28724f0ad88049914cfd0e29e1be3f057fbb"},
+    {"path":"artifact-manifest.json","bytes":4440,"sha256":"d90cabc9bf9c858f1a3da52bfb7eb1ff701c7db3a00c8ed6a1db1d87a451b7a6"},
+    {"path":"assets/brand/thermo-fisher-wordmark.png","bytes":8324,"sha256":"d4bdf349ccce338b45dbba85c46e8987ec602422759827bf40b0786a0cc6a67b"},
+    {"path":"brand-intelligence.md","bytes":1424,"sha256":"ed6279e88a042cf02926519d96b99a89d3ab53798e4b3014bbaa255dde1285f1"},
+    {"path":"brand-tokens.css","bytes":154,"sha256":"d7476e394870a12653400e9c5265fab352d140e36a4f431cba28c8c821b9bc31"},
+    {"path":"campaign-audit.md","bytes":1457,"sha256":"b6b40c8165e34c9314b48b2cfbff98d0139acbe75a86df0ff1dc0c77e84f8182"},
+    {"path":"cover-letter.html","bytes":4261,"sha256":"57117be913b46ade048ff21202fd8fa4afa84951fa3e8926bd797b2429ba0a9f"},
+    {"path":"docs/Russell-Dudek-Thermo-Fisher-120-Day-Plan.pdf","bytes":6336,"sha256":"4f0540d2250446ceafae78e9338fccc49121beadf4b4d1621ee55a878b5bd788"},
+    {"path":"docs/Russell-Dudek-Thermo-Fisher-Architecture-Review.pdf","bytes":2803,"sha256":"83df262bd1445ffecef6b7b3293795b0986cccb3f034153a5c69a10e30f2a721"},
+    {"path":"docs/Russell-Dudek-Thermo-Fisher-Cover-Letter.pdf","bytes":2908,"sha256":"fb30472ef76e014ca9b9b7e5bb5807258ba0bba3d1447505db88be8f548e77d2"},
+    {"path":"docs/Russell-Dudek-Thermo-Fisher-Interview-Brief.pdf","bytes":7444,"sha256":"a18282be6178567af5ba032fc3da9cffc29515a406e6abdc8d24ab50e9b6bc81"},
+    {"path":"docs/Russell-Dudek-Thermo-Fisher-Resume.pdf","bytes":7023,"sha256":"46fb86f17bec11dbc2ecf007b8efe2d95ec0d56d1597512cd660cb8654816e3b"},
+    {"path":"index.html","bytes":17021,"sha256":"50d9230b93f287ede4d5c15b2e6916c3931d229624a6786c9992e034c830392d"},
+    {"path":"interview-brief.html","bytes":7819,"sha256":"a2c5a28df221d576c8f86320c456c2b9b19382452c540a7282061cd23de05ef4"},
+    {"path":"qa/campaign-audit.json","bytes":538,"sha256":"a6b513415fddf55bc92d1637d0afdbf5ddcf126cd4501170a34531012551c837"},
+    {"path":"qa/full-site-audit.json","bytes":1024,"sha256":"67fb138df89c5bf58b2039a3bbe25b03a5cb4cfe795f4e42d16da78e7b92ca3d"},
+    {"path":"qa/routed-browser-audit.json","bytes":53,"sha256":"3dee179871668936bfa1fbf86e8e421112d02be56916412c7a4959970ff9ed2d"},
+    {"path":"resume.html","bytes":7936,"sha256":"fabcd8b3f1b6435cfec766e8db9d1c462e69609b120bda050e7245289c7227b2"},
+    {"path":"source-notes.md","bytes":635,"sha256":"b5376ec28dd9204f6564a17653db3795b28085acbbeec74edd2cdc04c683679b"},
+    {"path":"styles.css","bytes":11059,"sha256":"ef70ad9beefdd663afbf813ed00d656cc0f6ae833dfb40ef7c8a58d4ba8a497e"}
+  ]
+}
