@@ -1,0 +1,30 @@
+{
+  "correction": "Expand the 120-day entry plan and remove source-control links from recruiter-facing surfaces",
+  "html_paths_corrected": [
+    "resume.html",
+    "cover-letter.html",
+    "interview-brief.html",
+    "120-day-plan.html",
+    "architecture-review.html"
+  ],
+  "pdf_blobs": {
+    "docs/Russell-Dudek-Thermo-Fisher-Resume.pdf": "5eb71d0b88022f39593688d57113135cf96f3237",
+    "docs/Russell-Dudek-Thermo-Fisher-Cover-Letter.pdf": "e42a177cc11fc8c064f570ec85686e63839de19f",
+    "docs/Russell-Dudek-Thermo-Fisher-Interview-Brief.pdf": "fde71c150d607b8be69f23c4711c87b0e7ee29ac",
+    "docs/Russell-Dudek-Thermo-Fisher-120-Day-Plan.pdf": "74985b3f20fbaa8ae178d086c1f734c7751de5b7",
+    "docs/Russell-Dudek-Thermo-Fisher-Architecture-Review.pdf": "e6cd35bf624e02af0a00c7a4e5a496f91fde7fea"
+  },
+  "pdf_page_counts": [2, 1, 3, 3, 1],
+  "rasterized_pages": 10,
+  "source_repository_link_matches": 0,
+  "forbidden_internal_name_matches": 0,
+  "all_pdf_pages_nonblank": true,
+  "plan_required_sections": [
+    "Stakeholder topology",
+    "Proof-selection criteria",
+    "Four synchronized delivery workstreams",
+    "Decision-rights model to validate",
+    "Balanced architecture scorecard",
+    "Discovery boundary"
+  ]
+}
