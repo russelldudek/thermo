@@ -16,12 +16,24 @@
     "docs/Russell-Dudek-Thermo-Fisher-120-Day-Plan.pdf": 3,
     "docs/Russell-Dudek-Thermo-Fisher-Architecture-Review.pdf": 1
   },
-  "correction": {
+  "corrections": {
     "entry_plan": "three substantive executive pages",
+    "resume_page_balance": "passed after full-page module redistribution",
     "source_repository_links": 0,
     "forbidden_internal_name_matches": 0,
     "rasterized_pdf_pages": 10,
     "temporary_workflow_retained": false
+  },
+  "updated_artifacts": {
+    "resume.html": {
+      "bytes": 17314,
+      "sha256": "4e64b16a5a78d3f515082fed8916fd1368c87e6ee8537d890b73b888ac686615"
+    },
+    "docs/Russell-Dudek-Thermo-Fisher-Resume.pdf": {
+      "bytes": 12889,
+      "sha256": "5b8eefe9682d79118d4ccf058055d7f3c370e216ff8d4b5b619a46cf7e3e9cd7",
+      "pages": 2
+    }
   },
   "deployment_note": "Source and downloadable documents are audited on main. Live exact-head verification remains separate."
 }
